@@ -1,16 +1,14 @@
-## Hi there 👋
+# About me
 
-<!--
-**theoevanno/theoevanno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- **theoevanno/theoevanno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some ideas to get you started: -->
+ 
+- 🌱 I’m currently learning HTML5 and CSS
+- 🤔 I’m looking for help with JavaScript
+- 📫 How to reach me: theo_perso@live.fr
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: My first project was to do a train using only CSS 🚂
+- 💬 I also like video games, animes and everything about pop culture
+
