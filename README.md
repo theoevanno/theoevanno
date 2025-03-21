@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
  
-- 🌱 I’m currently learning HTML5 and CSS
+- 🌱 I’m currently learning HTML5 and CSS3
 - 🤔 I’m looking for help with JavaScript
 - 📫 How to reach me: theo_perso@live.fr
 - 😄 Pronouns: he/him
